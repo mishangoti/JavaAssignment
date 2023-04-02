@@ -3,9 +3,16 @@ package com.assignment.task2;
 import java.util.Scanner;
 
 public class Ex10 {
-
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 10. Write a program to input basic salary of an employee and calculate its Gross salary according to following:
+		// Basic Salary <= 15000 : HRA = 25%,
+		// DA = 82%
+		// Basic Salary <= 20200 : HRA = 27%,
+		// DA = 90%
+		// Basic Salary > 20200 : HRA = 36%, DA
+		// = 95%
+		
 		Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the basic salary: ");

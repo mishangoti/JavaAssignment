@@ -3,7 +3,8 @@ package com.assignment.task1;
 public class Ex3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 3.1 using the third variable as the result 
+		
 		int num1 = 4;
 		int num2 = 9;
 		int temp;

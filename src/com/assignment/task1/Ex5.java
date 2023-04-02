@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Ex5 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 5. Write a program to print the area of circle, Take radius as input from the user.(Area = 3.14*radius*radius)
+		
 		Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the radius of the circle: ");

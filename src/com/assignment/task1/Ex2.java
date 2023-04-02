@@ -4,8 +4,9 @@ import java.util.Scanner;
 public class Ex2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-        Scanner scanner = new Scanner(System.in);
+		// 2. Take the user's name as input and print it to the console.
+        
+		Scanner scanner = new Scanner(System.in);
         
         System.out.print("Please enter your name : ");
         String name = scanner.nextLine();

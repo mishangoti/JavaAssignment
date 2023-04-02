@@ -5,7 +5,15 @@ import java.util.Scanner;
 public class Ex5 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 5. Write a program to assign the grade
+		// on the basis of percentage
+		// if the percentage is above 90,
+		// assign grade A
+		// if the percentage is above 75,
+		// assign grade B
+		// if the percentage is above 65,
+		// assign grade C
+		
 		Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter a percentage: ");

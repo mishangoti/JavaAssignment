@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Ex3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 3. Write a program to compute quotient and reminder.
+		
 		Scanner scanner = new Scanner(System.in);
 
 		System.out.print("Enter the dividend: ");

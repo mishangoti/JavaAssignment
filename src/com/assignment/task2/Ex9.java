@@ -3,9 +3,16 @@ package com.assignment.task2;
 import java.util.Scanner;
 
 public class Ex9 {
-
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Write a program to input electricity unit charges and calculate total electricity bill according to the given condition:
+		// For first 60 units Rs. 0.30/unit
+		// For next 90 units Rs. 0.75/unit
+		// For next 120 units Rs. 1.10/unit
+		// For unit above 300 Rs. 2.50/unit
+		// An additional surcharge of 20% is
+		// added to the bill
+		
 		Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the number of units consumed: ");

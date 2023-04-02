@@ -5,7 +5,15 @@ import java.util.Scanner;
 public class Ex8 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 8. Calculate income tax paid by an employee to the government as per the slabs mentioned below:
+		// Income Slab Tax
+		// 2.5L – 6.0L 10%
+		// 6.0L – 12.0L 18%
+		// Above 12.0L 25%
+		// Note that there is no tax below
+		// 2.5L. Take the input amount as input
+		// from the user.
+		
 		Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter your income: ");

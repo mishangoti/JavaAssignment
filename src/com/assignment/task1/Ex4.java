@@ -1,11 +1,11 @@
 package com.assignment.task1;
-import java.util.Scanner;
 
+import java.util.Scanner;
 
 public class Ex4 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 4. Write a program to add two numbers.
 		Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the first number: ");

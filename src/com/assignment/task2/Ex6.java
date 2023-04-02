@@ -3,9 +3,10 @@ package com.assignment.task2;
 import java.util.Scanner;
 
 public class Ex6 {
-
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 6. Write a program to create a calculator using the switch case.
+		
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.println("Enter first number : ");

@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Ex4 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 4. Write a program to check whether a year is a leap year.
+		
 		Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter a year: ");

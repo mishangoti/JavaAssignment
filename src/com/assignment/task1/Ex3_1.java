@@ -3,7 +3,8 @@ package com.assignment.task1;
 public class Ex3_1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 3.2 Swap two numbers without using any third variable.
+		
 		int num1 = 4;
 		int num2 = 9;
 		
