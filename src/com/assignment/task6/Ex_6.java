@@ -4,6 +4,9 @@ class Complex {
 	int sum;
 	int difference;
 	
+	public Complex (){
+		System.out.println("This is cons");
+	}
 }
 
 public class Ex_6 {
